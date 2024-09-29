@@ -4,18 +4,43 @@
 
 }
 
-.text-lg, h1{
+.text-lg, p{
   font-family: 'Poppins', sans-serif;
   font-style: normal;
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+
 
 }
 
 h1{
-  font-size: 50px;
+  font-size: 60px;
   margin-bottom: 10px;
+  line-height: 1.0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 5px 0px;
 }
 
+.Abaut, h1{
+  font-size: 60px;
+  margin-bottom: 10px;
+  line-height: 1.0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
+.text-center{
+  padding:5px;
 
+}
 
-
+.text-sm{
+  line-height: 1.9;
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 12px;
+}
